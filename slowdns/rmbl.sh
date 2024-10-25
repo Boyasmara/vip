@@ -43,12 +43,12 @@ echo $dns > /root/domain
 echo "$dns" > /etc/xray/domain
 echo "$dn!������MYIP=$(wget -qO- icanhazip.com);
 apt install jq curl -y
-DOMAIN=xnxxms.cloud
+DOMAIN=aryablitar.filegear-sg.me
 sub=$(cat /root/subdomainx)
-dns=${sub}.xnxxms.cloud
-dns2=*.${sub}.xnxxms.cloud
-CF_ID=kovi148@gmail.com
-CF_KEY=45c11fd84f3ee1ce33070b0b65304e33b051
+dns=${sub}.aryablitar.filegear-sg.me
+dns2=*.${sub}.aryablitar.filegear-sg.me
+CF_ID=lahseta19@gmail.com
+CF_KEY=641efc1ac85cd3f401f639df955ec5b696c8c
 set -euo pipefail
 IP=$(wget -qO- icanhazip.com);
 echo "Updating DNS for ${dns}..."
